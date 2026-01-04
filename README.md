@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Data+Science;Open+Source+Enthusiast;Always+Learning;Tech+Explorer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Ayush;Welcome+to+my+GitHub!;Data+Science;Open+Source+Enthusiast;Always+Learning;Tech+Explorer" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-3065842b9/">
@@ -33,7 +32,7 @@
 
 </td>
 <td width="45%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </td>
 </tr>
 </table>
