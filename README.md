@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Ayush;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Ayush;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
@@ -10,7 +10,7 @@ I'm a passionate developer focused on building innovative solutions and learning
 
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm constantly learning and improving my skills
-- �� Open to collaboration on interesting projects
+- 💼 Open to collaboration on interesting projects
 - 📫 How to reach me: Feel free to connect!
 - ⚡ Fun fact: I love solving complex problems
 
