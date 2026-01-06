@@ -25,9 +25,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Myself and Data**.
-- 👯 I’m looking to collaborate on **Innovative Problem Solving Projects**.
-- 💬 Ask me about **Python, Java, and Computer Science Fundamentals**.
+-  I’m currently working on **Myself and Data**.
+-  I’m looking to collaborate on **Innovative Problem Solving Projects**.
+-  Ask me about **Python, Java, and Computer Science Fundamentals**.
 - ⚡ Fun fact: **Love Exploring the uncertains**
 
 </td>
